@@ -6,7 +6,7 @@ import random
 import requests
 
 # Constants
-S3_BUCKET = "pt-dataset-bucket-zehra "  # Replace with your S3 bucket name
+S3_BUCKET = "pt-dataset-bucket-zehra"  # Replace with your S3 bucket name
 S3_KEY = "pt-questions.json"
 API_URL = "https://au195rai4m.execute-api.us-east-1.amazonaws.com/ask"  # Replace with your AI endpoint if using
 
